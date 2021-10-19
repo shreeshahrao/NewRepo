@@ -3,5 +3,9 @@ Hello Sun
 Hello Moon
 Hello Mars
 Hello Saturn
+<<<<<<< HEAD
 
 Hello Neptune
+=======
+Hello Uranus
+>>>>>>> feature1
